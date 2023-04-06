@@ -1,3 +1,9 @@
-01.  what is component in react js and its folder structure
-02. what is functional component in react js
-03. writting functional component .
+what is component in react js and its folder structure
+what is functional component in react js
+writting functional component .
+what is props in react. working of props and its example.
+what is state in react . working of state and its example.
+what is hooks in react.
+what is rerendering in react .
+props vs state in react.
+
