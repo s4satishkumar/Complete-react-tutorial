@@ -1,1 +1,3 @@
-
+01.  what is component in react js and its folder structure
+02. what is functional component in react js
+03. writting functional component .
